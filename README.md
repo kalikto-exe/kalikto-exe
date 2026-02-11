@@ -11,7 +11,7 @@ open-source tools, and real-world AI usage.
 
 ## Writing & presence
 - Medium: https://medium.com/@kalikto
-- Instagram: https://instagram.com/YOUR_ID
+- Instagram: https://instagram.com/smit_mehtaa
 
 ## Community & learning
 I enjoy discussing tech, sharing what I learn, and helping others
