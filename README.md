@@ -8,6 +8,7 @@ open-source tools, and real-world AI usage.
 - Open-source alternatives to popular apps
 - AI tools (ChatGPT, Gemini, etc.) — honest pros & cons
 - Tech do’s and don’ts for everyday users
+- Coding and open source codes
 
 ## Writing & presence
 - Medium: https://medium.com/@kalikto
